@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thalita, I'm a sotware development student at Trybe school, willing to become a full-stack developer
+My name is Thalita, I'm a software development student at Trybe school, willing to become a full-stack developer
 
 [![Thalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaC)](https://github.com/ThalitaC/github-readme-stats&count_private=true&theme=dark)
 
