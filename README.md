@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-My name is Thalita, I'm a software development student at Trybe school, willing to become a full-stack developer
+My name is Thalita, I'm a software development student at Trybe school, willing to become a full-stack developer.
 
-[![Thalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaC)](https://github.com/ThalitaC/github-readme-stats&count_private=true&theme=dark)
+[![ThalitaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaC&count_private=true&show_icons=true&theme=dark)](https://github.com/thalitac/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaC)](https://github.com/ThalitaC/github-readme-stats&layout=compact)
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitac&layout=compact&theme=dark)](https://github.com/thalitac/github-readme-stats)
  
 <!--
 **ThalitaC/ThalitaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
