@@ -2,7 +2,7 @@
 
 My name is Thalita, I'm a software development student at Trybe school, willing to become a full-stack developer.
 
-- 😄 She/Her
+😄 She/Her
 
 [![ThalitaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaC&count_private=true&show_icons=true&theme=dark)](https://github.com/thalitac/github-readme-stats)
 
