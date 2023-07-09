@@ -2,9 +2,7 @@
 😄 She/Her
 <img align="right" width="400" alt="cat typing hard" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif"/>
 
-I'm a software development student at Trybe school, willing to become a full-stack developer.
-
-All my trybe projects was done by me. At trybe school we don't follow tutorials, we build projects based on a list of features they should have. When used someone's code as inpiration it is commented on the code.
+I'm a software development student at Univesp, willing to become a full-stack developer.
 
 ### 🌱 I’m currently learning:
 - Node.js
