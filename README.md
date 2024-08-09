@@ -2,23 +2,17 @@
 😄 She/Her
 <img align="right" width="400" alt="cat typing hard" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif"/>
 
-I'm a software development student at Univesp, willing to become a full-stack developer.
+I'm a back-end developer with some front-end knowledge, currently working @E-core.
 
 ### 🌱 I’m currently learning:
-- Node.js
-- Express
-- Go 
-
+- AWS
 
 ### Languages and Tools:
 <p align="left">
-<img height="30" alt="js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="30" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img height="30" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="30" alt="spring logo" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+<img height="30" alt="node logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img height="30" alt="jest logo" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-<img height="30" alt="mysql logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img height="30" alt="mongo logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img height="30" alt="docker logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img height="30" alt="manjaro logo" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ThalitaC&count_private=true&show_icons=true&theme=dark" alt="thalitac" /></p>
