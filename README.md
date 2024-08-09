@@ -10,7 +10,7 @@ I'm a back-end developer with some front-end knowledge, currently working @E-cor
 ### Languages and Tools:
 <p align="left">
 <img height="30" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img height="30" alt="spring logo" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+<img height="30" alt="spring logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
 <img height="30" alt="node logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img height="30" alt="jest logo" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
 </p>
